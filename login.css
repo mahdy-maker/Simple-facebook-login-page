@@ -1,0 +1,22 @@
+html{
+    background-color: rgb(9, 10, 10);
+}
+.include{
+width:300px;
+height:400px;
+border:1px rgb(210, 210, 239) solid;
+padding:20px;
+margin:auto;
+margin-top:10ex;
+color:rgb(255, 255, 255);
+background-color:rgb(95, 95, 140);
+}
+header{
+    font-family: monospace;
+    font-size: 60px;
+    text-align: center;
+    height: 3ex;
+}
+body ul{
+    padding-left:auto;
+}
